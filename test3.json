@@ -1,0 +1,62 @@
+{
+  "list": {
+    "2219965660": {
+      "item_id": "2219965660",
+      "resolved_id": "2219965660",
+      "given_url": "https://www.robinwieruch.de/getting-started-github-graphql-api",
+      "given_title": "Getting Started with GitHub's GraphQL API - RWieruch",
+      "favorite": "0",
+      "status": "0",
+      "time_added": "1569444861",
+      "time_updated": "1569500484",
+      "time_read": "0",
+      "time_favorited": "0",
+      "sort_id": 29,
+      "resolved_title": "Getting Started with GitHub's GraphQL API",
+      "resolved_url": "https://www.robinwieruch.de/getting-started-github-graphql-api/",
+      "excerpt": "I am writing a React GraphQL book which I intend to release the next months. If you are interested in following me on this journey or grabbing a copy of the book as one of its first readers, you can opt-in for receiving updates about it.",
+      "is_article": "1",
+      "is_index": "0",
+      "has_video": "0",
+      "has_image": "0",
+      "word_count": "2019",
+      "lang": "en",
+      "time_to_read": 9,
+      "top_image_url": "https://www.robinwieruch.de/img/posts/getting-started-github-graphql-api/banner_640.jpg",
+      "tags": {
+        "git": { "item_id": "2219965660", "tag": "git" },
+        "hugo": { "item_id": "2219965660", "tag": "hugo" }
+      },
+      "listen_duration_estimate": 782
+    },    
+    "2219965665": {
+      "item_id": "2219965665",
+      "resolved_id": "2219965665",
+      "given_url": "https://www.robinwieruch.de/getting-started-github-graphql-api",
+      "given_title": "Getting Started with GitHub's GraphQL API - RWieruch",
+      "favorite": "0",
+      "status": "0",
+      "time_added": "1569444861",
+      "time_updated": "1569500484",
+      "time_read": "0",
+      "time_favorited": "0",
+      "sort_id": 29,
+      "resolved_title": "Getting Started with GitHub's GraphQL API",
+      "resolved_url": "https://www.robinwieruch.de/getting-started-github-graphql-api/",
+      "excerpt": "I am writing a React GraphQL book which I intend to release the next months. If you are interested in following me on this journey or grabbing a copy of the book as one of its first readers, you can opt-in for receiving updates about it.",
+      "is_article": "1",
+      "is_index": "0",
+      "has_video": "0",
+      "has_image": "0",
+      "word_count": "2019",
+      "lang": "en",
+      "time_to_read": 9,
+      "top_image_url": "https://www.robinwieruch.de/img/posts/getting-started-github-graphql-api/banner_640.jpg",
+      "tags": {
+        "hide": { "item_id": "2219965660", "tag": "hide" },
+        "hugo": { "item_id": "2219965660", "tag": "hugo" }
+      },
+      "listen_duration_estimate": 782
+    }
+}
+}
