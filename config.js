@@ -3,7 +3,7 @@
 // If object contain some of the tags in list,
 // then output of the given object is ignored.
 
-const data = require("./test.json");
+// const data = require("./test.json");
 
 module.exports = {
   UNTAGED: "untaged",
@@ -20,7 +20,7 @@ module.exports = {
     "personal",
     "uft"
   ],
-  data: data
+  data: require("./test.json")
 };
 // If object is untaged then objec get the tag with this string.
 // const UNTAGED = "untaged";
