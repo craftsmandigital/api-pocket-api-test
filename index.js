@@ -1,34 +1,15 @@
-// configuration
+// const babel = require("@babel/core");
 
-// If object contain some of the tags in list,
-// then output of the given object is ignored.
-const TAGS_TO_IGNORE = [
-  "nav",
-  "hide",
-  "job",
-  "favorits job",
-  "helse",
-  "job-har-sokt",
-  "jobb-har-sokt",
-  "jobb-ikke-relevant",
-  "midlertidig",
-  "personal",
-  "uft"
-];
+// babel.transform("code", optionsObject);
 
-// If object is untaged then objec get the tag with this string.
-const UNTAGED = "untaged";
+// const config = require('./credentials.js');
+// https://medium.com/@pativancarrasco/why-your-es6-syntax-doesnt-work-in-node-js-and-how-to-fix-it-161f0708f1ad
+// import { TAGS_TO_IGNORE, UNTAGED, data } from './config.js';
+const config = require('./config.js');
 
-// -------------------------------------------------------------------------------
-// -------------------------------------------------------------------------------
-// -------------------------------------------------------------------------------
-// -------------------------------------------------------------------------------
-
-// fetching json and convert to js object
-const data = require("./test.json");
 
 // Get an easier list to work with (array)
-const entries = Object.values(data.list);
+const entries = Object.values(config.data.list);
 
 // sorting data on date bookmarks creatded
 // https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value
@@ -42,7 +23,7 @@ const mapped = entries.map(bookmark => {
   // If object don't have tags then giv it a tag of name UNTAGED constant.
   let tagList;
   if (typeof bookmark.tags === "undefined") {
-    tagList = [UNTAGED];
+    tagList = [config.UNTAGED];
   } else {
     tagList = Object.keys(bookmark.tags);
   }
@@ -70,7 +51,7 @@ const mapped = entries.map(bookmark => {
 // Remove objects that have tags that are in the TAGS_TO_IGNORE list
 // https://stackoverflow.com/questions/16312528/check-if-an-array-contains-any-element-of-another-array-in-javascript/29447130
 const filtered = mapped.filter(bookmark => {
-  return !bookmark.tags.some(r => TAGS_TO_IGNORE.includes(r));
+  return !bookmark.tags.some(r => config.TAGS_TO_IGNORE.includes(r));
 });
 
 console.log(filtered);
