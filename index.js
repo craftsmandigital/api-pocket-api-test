@@ -64,13 +64,15 @@ filtered.forEach((ielement, index) => {
         items: [ielement]
       });
     } else {
-      // const record = tagList.map(ta)
-      // console.log(record);
+      // get index in objList were current tag(inner_element) is living
+      const i = objList.map(x => x.tag).indexOf(inner_element);
+      // adding record to corresponding tag
+      objList[i].items.push(ielement);
     }
   });
 });
 
-console.log(objList.map(x => x.tag));
-console.log(objList);
+// console.log(objList.map(x => x.tag));
+// console.log(objList);
 
-console.log(objList[objList.map(x => x.tag).indexOf('hugo')]);
+console.log(objList[objList.map(x => x.tag).indexOf('vim')]);
