@@ -52,15 +52,31 @@ const filtered = mapped.filter(bookmark => {
   return !bookmark.tags.some(r => config.TAGS_TO_IGNORE.includes(r));
 });
 
-
 let tagList = [];
-  filtered.forEach((element, index) => {
-    element.tags.forEach(inner_element => {
-      if (!tagList.includes( inner_element)) {
-        tagList.push(inner_element);
-      }
+let objList = [];
+filtered.forEach((ielement, index) => {
+  ielement.tags.forEach(inner_element => {
+    if (!tagList.includes(inner_element)) {
+      tagList.push(inner_element);
+      // objList.push(inner_element);
 
-    });
+      
+
+
+
+
+      // console.log(ielement);
+      // console.log(index);
+      objList.push({
+        tag: inner_element,
+        items: [ielement]
+      });
+    } else {
+      // const record = tagList.map(ta)
+      // console.log(record);
+    }
+  });
 });
 
-console.log(tagList);
+console.log(objList.map(x => x.tag));
+// console.log(objList);
