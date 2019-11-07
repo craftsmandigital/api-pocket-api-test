@@ -7,6 +7,8 @@
 
 module.exports = {
   UNTAGED: "untaged",
+  LATEST_TAGS: "latest tags",
+  LATEST_TAGS_COUNT: 20,
   TAGS_TO_IGNORE: [
     "nav",
     "hide",
