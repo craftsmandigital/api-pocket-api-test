@@ -20,7 +20,9 @@ module.exports = {
     "personal",
     "uft"
   ],
-  data: require("./test.json")
+  // data: require("./test.json")
+  input:  "./test.json",
+  output: "./pocket-data.json"
 };
 // If object is untaged then objec get the tag with this string.
 // const UNTAGED = "untaged";

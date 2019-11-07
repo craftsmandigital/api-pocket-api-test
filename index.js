@@ -5,10 +5,11 @@
 // const config = require('./credentials.js');
 // https://medium.com/@pativancarrasco/why-your-es6-syntax-doesnt-work-in-node-js-and-how-to-fix-it-161f0708f1ad
 // import { TAGS_TO_IGNORE, UNTAGED, data } from './config.js';
+var fs = require('fs');
 const config = require("./config.js");
-
+const data = require(config.input)
 // Get an easier list to work with (array)
-const entries = Object.values(config.data.list);
+const entries = Object.values(data.list);
 
 // sorting data on date bookmarks creatded
 // https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value
@@ -72,7 +73,21 @@ filtered.forEach((ielement, index) => {
   });
 });
 
-// console.log(objList.map(x => x.tag));
-// console.log(objList);
 
-console.log(objList[objList.map(x => x.tag).indexOf('vim')]);
+objList.sort((a, b) =>
+  a.tag > b.tag ? 1 : b.tag > a.tag ? -1 : 0
+);
+
+
+
+
+// console.log(JSON.stringify(objList));
+
+// console.log(objList[objList.map(x => x.tag).indexOf('vim')]);
+
+
+fs.writeFile(config.output, JSON.stringify(objList), function(err) {
+    if (err) {
+        console.log(err);
+    }
+});
