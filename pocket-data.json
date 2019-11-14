@@ -587,6 +587,39 @@
     "tag": "bulma",
     "items": [
       {
+        "item_id": "1844142504",
+        "time_added": "2019-11-03T21:44:39.000Z",
+        "time_updated": "2019-11-03T21:44:52.000Z",
+        "given_url": "https://www.elevo.fr/",
+        "given_title": "Elevo - Construisez votre culture de management",
+        "favorite": "0",
+        "excerpt": "Modernisez votre suivi des talents… allez au delà des entretiens                   Vous souhaitez moderniser en profondeur le suivi de la performance dans votre organisation ? Les thèmes évoqués vous intéressent ?",
+        "word_count": "28",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2751946347",
+        "time_added": "2019-11-03T21:37:16.000Z",
+        "time_updated": "2019-11-03T21:37:25.000Z",
+        "given_url": "https://cssninja.io/blog",
+        "given_title": "CSS Ninja - Blog",
+        "favorite": "0",
+        "excerpt": "Jumpstart your design process and deliver the right experience to your customers Check out our Themes",
+        "word_count": "16",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2349559395",
+        "time_added": "2019-11-03T21:28:39.000Z",
+        "time_updated": "2019-11-03T21:28:50.000Z",
+        "given_url": "https://danielfr.com/",
+        "given_title": "Front-End Developer | Daniel Fernandez Rabal",
+        "favorite": "0",
+        "excerpt": "From the time I started my career as web developer on late 2016 I have been experimenting with UI trying to bring great ideas, passion and quality to what I code. However that it is not an easy job so I try my best to improve my skills being an Medium bookworm and doing some course once in a while.",
+        "word_count": "267",
+        "tags": ["mysite"]
+      },
+      {
         "item_id": "2004958754",
         "time_added": "2019-08-29T19:45:44.000Z",
         "time_updated": "2019-08-29T19:45:50.000Z",
@@ -664,7 +697,7 @@
         "top_image_url": "https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/media/1/NLl72lS8SiSKYtv714a9_get-to-know-bulma-favorite-flexbox-css-framework.png.jpg"
       }
     ],
-    "count": 7
+    "count": 10
   },
   {
     "tag": "css",
@@ -678,8 +711,7 @@
         "favorite": "0",
         "excerpt": "It’s no secret that leaner websites run faster than bloated ones. Don’t let unnecessary CSS weigh down your web projects; use the tools and techniques described below to help you remove unused CSS and improve your website’s overall performance.",
         "word_count": "1462",
-        "top_image_url": "https://blog.keycdn.com/blog/wp-content/uploads/2018/11/remove-unused-css.png",
-        "tags": ["latest tags"]
+        "top_image_url": "https://blog.keycdn.com/blog/wp-content/uploads/2018/11/remove-unused-css.png"
       },
       {
         "item_id": "800105165",
@@ -690,8 +722,7 @@
         "favorite": "0",
         "excerpt": "CSS cursor property used to define cursor type (i.e. mouse pointer) when the mouse moves over a certain area or, over a link on the webpage.",
         "word_count": "370",
-        "top_image_url": "https://www.tutorialrepublic.com/lib/images/signature.png",
-        "tags": ["latest tags"]
+        "top_image_url": "https://www.tutorialrepublic.com/lib/images/signature.png"
       },
       {
         "item_id": "2195558944",
@@ -2362,18 +2393,6 @@
     "tag": "graphql",
     "items": [
       {
-        "item_id": "2745016894",
-        "time_added": "2019-10-02T16:57:36.000Z",
-        "time_updated": "2019-10-03T21:23:24.000Z",
-        "given_url": "https://stackoverflow.com/questions/42021113/how-to-use-curl-to-access-the-github-graphql-api/42021388#42021388",
-        "given_title": "How to use curl to access the github graphql API - Stack Overflow",
-        "favorite": "0",
-        "excerpt": "After referring this guide I needed to access the github graphql by using curl for a testing purpose. I tried this simple command Thanks for contributing an answer to Stack Overflow!",
-        "word_count": "360",
-        "top_image_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
-        "tags": ["latest tags"]
-      },
-      {
         "item_id": "2745160410",
         "time_added": "2019-10-02T19:50:18.000Z",
         "time_updated": "2019-10-03T21:23:24.000Z",
@@ -2382,6 +2401,17 @@
         "favorite": "0",
         "excerpt": "What's wrong? How can I make it works? Thx. Thanks for contributing an answer to Stack Overflow!",
         "word_count": "244",
+        "top_image_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"
+      },
+      {
+        "item_id": "2745016894",
+        "time_added": "2019-10-02T16:57:36.000Z",
+        "time_updated": "2019-10-03T21:23:24.000Z",
+        "given_url": "https://stackoverflow.com/questions/42021113/how-to-use-curl-to-access-the-github-graphql-api/42021388#42021388",
+        "given_title": "How to use curl to access the github graphql API - Stack Overflow",
+        "favorite": "0",
+        "excerpt": "After referring this guide I needed to access the github graphql by using curl for a testing purpose. I tried this simple command Thanks for contributing an answer to Stack Overflow!",
+        "word_count": "360",
         "top_image_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"
       },
       {
@@ -2630,7 +2660,7 @@
         "favorite": "0",
         "excerpt": "When writing a simple web app or prototyping something, you may want a quick and simple way to store, edit and retrieve data.",
         "word_count": "278",
-        "top_image_url": "https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/41427/d38ff2119d6ace825b4c7b64e6f422d8.jpeg",
+        "top_image_url": "https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/123049/the_one_cropped.jpg",
         "tags": ["web"]
       },
       {
@@ -2671,6 +2701,16 @@
   {
     "tag": "hugo",
     "items": [
+      {
+        "item_id": "2696622048",
+        "time_added": "2019-10-26T17:38:43.000Z",
+        "time_updated": "2019-10-26T17:38:58.000Z",
+        "given_url": "https://sam.hooke.me/note/2018/03/hugo-tag-and-category-pages/",
+        "given_title": "Hugo tag and category pages",
+        "favorite": "0",
+        "excerpt": "",
+        "word_count": "0"
+      },
       {
         "item_id": "583608077",
         "time_added": "2019-10-08T16:41:45.000Z",
@@ -2716,8 +2756,7 @@
         "favorite": "0",
         "excerpt": "I love and use both JSON and Markdown in my projects. Each npm package requires a package.json file which is obviously written in JSON format. Also, good projects have good documentation. My favorite language for writing docs is Markdown.  But I don't really write Markdown files.",
         "word_count": "423",
-        "top_image_url": "https://www.filepicker.io/api/file/HAOsRcGTESxE1YyNX3vd",
-        "tags": ["latest tags"]
+        "top_image_url": "https://www.filepicker.io/api/file/HAOsRcGTESxE1YyNX3vd"
       },
       {
         "item_id": "2195558944",
@@ -2955,17 +2994,6 @@
         "excerpt": "Theme Components are a relatively new addition to Hugo, first appearing in the 0.42 release.",
         "word_count": "1952",
         "top_image_url": "https://forestry.io/uploads/2018/07/leaf-group.jpg"
-      },
-      {
-        "item_id": "1809146399",
-        "time_added": "2019-08-10T15:34:25.000Z",
-        "time_updated": "2019-08-11T10:15:30.000Z",
-        "given_url": "https://dev.to/search",
-        "given_title": "Search Results - DEV Community ?‍??‍?",
-        "favorite": "0",
-        "excerpt": "",
-        "word_count": "0",
-        "top_image_url": "https://thepracticaldev.s3.amazonaws.com/i/g355ol6qsrg0j2mhngz9.png"
       },
       {
         "item_id": "2482853019",
@@ -3723,6 +3751,153 @@
     "tag": "javascript",
     "items": [
       {
+        "item_id": "2293505056",
+        "time_added": "2019-11-10T22:23:51.000Z",
+        "time_updated": "2019-11-10T22:24:00.000Z",
+        "given_url": "https://flaviocopes.com/node-event-loop/",
+        "given_title": "The Node.js Event Loop",
+        "favorite": "0",
+        "excerpt": "The Event Loop is one of the most important aspects to understand about Node.  Why is this so important? Because it explains how Node can be asynchronous and have non-blocking I/O, and so it explains basically the “killer app” of Node, the thing that made is this successful.",
+        "word_count": "963",
+        "top_image_url": "https://flaviocopes.com/img/og.png",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2762288886",
+        "time_added": "2019-11-10T17:25:50.000Z",
+        "time_updated": "2019-11-10T17:26:00.000Z",
+        "given_url": "https://dzone.com/articles/javascript-callback-functions-in-depth-guide-for-2",
+        "given_title": "JavaScript Callback Functions: An In-Depth Guide - DZone Web Dev",
+        "favorite": "0",
+        "excerpt": "JavaScript callback functions; another important concept you must need to understand to become a successful JavaScript developer. But I am sure that after reading this article thoroughly you will be able to overcome any obstacles you previously had with callbacks.",
+        "word_count": "1924",
+        "top_image_url": "https://dz2cdn1.dzone.com/storage/article-thumb/12602292-thumb.jpg",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2714435559",
+        "time_added": "2019-11-08T19:02:15.000Z",
+        "time_updated": "2019-11-08T19:02:25.000Z",
+        "given_url": "https://medium.com/javascript-in-plain-english/javascript-async-await-and-promises-explained-like-youre-five-years-old-61733751e9a5",
+        "given_title": "JavaScript Async/Await and Promises: Explained like you’re five years old.",
+        "favorite": "0",
+        "excerpt": "Anyone who calls themself a JavaScript developer has had to, at one point, work with either callback functions, Promises, or more recently, Async/Await syntax.",
+        "word_count": "1561",
+        "top_image_url": "https://miro.medium.com/max/1200/1*WXptADWmZcG0wWqPUcHz0Q.jpeg",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2478104417",
+        "time_added": "2019-11-08T13:53:06.000Z",
+        "time_updated": "2019-11-08T13:53:27.000Z",
+        "given_url": "https://medium.com/javascript-in-plain-english/async-await-javascript-5038668ec6eb",
+        "given_title": "How to use Async Await in JavaScript. - JavaScript in Plain English - Mediu",
+        "favorite": "0",
+        "excerpt": "It can be Asynchronous. It can be Functional. It can be Object-oriented. It can be Client-side. It can be Server-side. The list goes on. This article will focus on Asynchronous JavaScript.",
+        "word_count": "638",
+        "top_image_url": "https://cdn-images-1.medium.com/max/1200/1*KeSreLBdn5kB1rQtLnV6tg.jpeg",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2775153808",
+        "time_added": "2019-10-30T08:20:46.000Z",
+        "time_updated": "2019-11-06T21:23:00.000Z",
+        "given_url": "https://www.npmjs.com/package/curl-to-node",
+        "given_title": "curl-to-node - npm",
+        "favorite": "0",
+        "excerpt": "Transform curl CLI commands to js options for http requests libraries.",
+        "word_count": "70",
+        "top_image_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2523133205",
+        "time_added": "2019-11-05T15:13:32.000Z",
+        "time_updated": "2019-11-05T15:13:46.000Z",
+        "given_url": "https://appdividend.com/2019/03/13/es6-modules-in-node-tutorial-with-example/",
+        "given_title": "ES6 Modules in Node Tutorial With Example",
+        "favorite": "0",
+        "excerpt": "ES6 Modules in Node Tutorial With Example is today’s topic. ES6 Modules are useful when we need to make objects, functions, classes or variables available to the outside world it’s as simple as exporting them and then importing them where needed in other files.",
+        "word_count": "733",
+        "top_image_url": "https://appdividend.com/wp-content/uploads/2019/03/ES6-Modules-in-Node-Tutorial-With-Example.png",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2775173515",
+        "time_added": "2019-10-30T08:48:11.000Z",
+        "time_updated": "2019-10-30T08:48:28.000Z",
+        "given_url": "https://tools.chilkat.io/curl.cshtml#generatedCode",
+        "given_title": "Chilkat Tools",
+        "favorite": "0",
+        "excerpt": "",
+        "word_count": "0",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2568254259",
+        "time_added": "2019-10-28T19:16:06.000Z",
+        "time_updated": "2019-10-29T07:47:36.000Z",
+        "given_url": "https://appdividend.com/2018/12/27/javascript-object-keys-example-object-keys-tutorial/",
+        "given_title": "Javascript Object Keys Example | Object.keys() Method",
+        "favorite": "0",
+        "excerpt": "Javascript Object Keys Example | Object.keys() Tutorial is the topic, we will discuss today. The Javascript Object.keys() method returns an array of the given object’s property names, in the same order as we get with a standard loop. Object.",
+        "word_count": "358",
+        "top_image_url": "https://appdividend.com/wp-content/uploads/2018/12/Object-Keys-Method-in-Javascript.png"
+      },
+      {
+        "item_id": "1809146399",
+        "time_added": "2019-10-28T18:31:50.000Z",
+        "time_updated": "2019-10-28T18:32:09.000Z",
+        "given_url": "https://dev.to/search",
+        "given_title": "Map/Filter/Reduce Crash Course - DEV Community ?‍??‍?",
+        "favorite": "0",
+        "excerpt": "",
+        "word_count": "0",
+        "top_image_url": "https://thepracticaldev.s3.amazonaws.com/i/g355ol6qsrg0j2mhngz9.png"
+      },
+      {
+        "item_id": "2232432590",
+        "time_added": "2019-10-28T10:05:45.000Z",
+        "time_updated": "2019-10-28T13:12:35.000Z",
+        "given_url": "https://zellwk.com/blog/looping-through-js-objects/",
+        "given_title": "6 Looping through objects in JavaScript | Zell Liew ",
+        "favorite": "0",
+        "excerpt": "Once in a while, you may need to loop through Objects in JavaScript. The only way to do so before ES6 is with a for...in loop.  The problem with a for...in loop is that it iterates through properties in the Prototype chain. When you loop through an object with the for...",
+        "word_count": "478"
+      },
+      {
+        "item_id": "2080324872",
+        "time_added": "2019-10-28T11:11:39.000Z",
+        "time_updated": "2019-10-28T11:42:10.000Z",
+        "given_url": "https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4",
+        "given_title": "Learn map, filter and reduce in Javascript - João Miguel Cunha - Medium",
+        "favorite": "0",
+        "excerpt": "This article is pointed towards beginners in Javascript or people who are just starting working with functional Javascript and never heard of map, filter and reduce. If you already have a lot of…",
+        "word_count": "0",
+        "top_image_url": "https://cdn-images-1.medium.com/max/1200/1*H-25KB7EbSHjv70HXrdl6w.png"
+      },
+      {
+        "item_id": "2683223102",
+        "time_added": "2019-10-28T09:11:01.000Z",
+        "time_updated": "2019-10-28T09:49:34.000Z",
+        "given_url": "https://www.tutorialkart.com/nodejs/nodejs-parse-json/",
+        "given_title": "Node.js Parse JSON - Parsing JSON Data or JSON File - TutorialKart",
+        "favorite": "0",
+        "excerpt": "Node.js Parse JSON – For parsing JSON data in Node.js, we can use JSON.parse() function of JavaScript Engine. Following example helps you to use JSON.parse() function and access the elements from JSON Object.",
+        "word_count": "180"
+      },
+      {
+        "item_id": "2685724848",
+        "time_added": "2019-10-28T09:39:09.000Z",
+        "time_updated": "2019-10-28T09:39:35.000Z",
+        "given_url": "https://medium.com/@darrion/ways-to-loop-through-an-object-in-javascript-622353049c7f",
+        "given_title": "5 Ways to Loop Through Objects in JavaScript - Darrion Ramdin - Medium ",
+        "favorite": "0",
+        "excerpt": "Sometimes we may need to retrieve multiple pairs of data from an object. This article will briefly describe three ways that we can accomplish this task using array looping methods. The three ways I have learnt to do this are using Object.keys() and two ES8 methods, Object.values() and Object.",
+        "word_count": "454",
+        "top_image_url": "https://miro.medium.com/max/1200/1*f7qWsgEjTojHXAkXC02qgA.jpeg"
+      },
+      {
         "item_id": "2542965028",
         "time_added": "2019-10-19T13:29:58.000Z",
         "time_updated": "2019-10-19T13:30:08.000Z",
@@ -3731,8 +3906,7 @@
         "favorite": "0",
         "excerpt": "This article builds on the understanding of the concept of promises in Javascript. If you are not familiar with them or need a quick recap, check the following article. Changing it to async function is pretty simple. You just add async at the beginning like this:",
         "word_count": "898",
-        "top_image_url": "https://www.vojtechruzicka.com/static/3c82134bf7203c3088c1ecf01c11caef/b0ffd/async-await.jpg",
-        "tags": ["latest tags"]
+        "top_image_url": "https://www.vojtechruzicka.com/static/3c82134bf7203c3088c1ecf01c11caef/b0ffd/async-await.jpg"
       },
       {
         "item_id": "1951607487",
@@ -3743,28 +3917,10 @@
         "favorite": "0",
         "excerpt": "Udemy Black Friday Sale — Thousands of Web Development & Software Development courses are on sale for only $10 for a limited time! Full details and course recommendations can be found here. ES 2017 introduced Asynchronous functions.",
         "word_count": "1233",
-        "top_image_url": "https://miro.medium.com/max/1200/1*d2MAPp7120q_8x6Ue8KYmQ.png",
-        "tags": ["latest tags"]
+        "top_image_url": "https://miro.medium.com/max/1200/1*d2MAPp7120q_8x6Ue8KYmQ.png"
       }
     ],
-    "count": 2
-  },
-  {
-    "tag": "jobb",
-    "items": [
-      {
-        "item_id": "2769850411",
-        "time_added": "2019-10-25T08:16:11.000Z",
-        "time_updated": "2019-10-25T08:42:07.000Z",
-        "given_url": "https://arbeidsplassen.nav.no/stillinger/stilling/29380eb4-b1aa-450f-9705-f110b7e01788",
-        "given_title": "2 Vaktmester - 50 % stilling ",
-        "favorite": "0",
-        "excerpt": "",
-        "word_count": "0",
-        "tags": ["latest tags"]
-      }
-    ],
-    "count": 1
+    "count": 15
   },
   {
     "tag": "js plain",
@@ -4059,67 +4215,18 @@
     "tag": "latest tags",
     "items": [
       {
-        "item_id": "583608077",
-        "time_added": "2019-10-08T16:41:45.000Z",
-        "time_updated": "2019-10-08T16:41:59.000Z",
-        "given_url": "https://unix.stackexchange.com/questions/112132/how-can-i-grep-patterns-across-multiple-lines",
-        "given_title": "regular expression - How can I \"grep\" patterns across multiple lines? - Uni",
+        "item_id": "2349559395",
+        "time_added": "2019-11-03T21:28:39.000Z",
+        "time_updated": "2019-11-03T21:28:50.000Z",
+        "given_url": "https://danielfr.com/",
+        "given_title": "Front-End Developer | Daniel Fernandez Rabal",
         "favorite": "0",
-        "excerpt": "Stack Exchange network consists of 173 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.  It seems I am misusing grep/egrep.",
-        "word_count": "1417",
-        "top_image_url": "https://cdn.sstatic.net/Sites/unix/img/apple-touch-icon@2.png?v=32fb07f7ce26",
-        "tags": ["linux"]
-      },
-      {
-        "item_id": "577741451",
-        "time_added": "2019-10-08T14:29:36.000Z",
-        "time_updated": "2019-10-08T14:29:48.000Z",
-        "given_url": "https://stackoverflow.com/questions/11313852/split-one-file-into-multiple-files-based-on-delimiter",
-        "given_title": "linux - Split one file into multiple files based on delimiter - Stack Overf",
-        "favorite": "0",
-        "excerpt": "wertretr ewretrtret 1212132323 000232 -| ereteertetet 232434234 erewesdfsfsfs 0234342343 -| jdhg3875jdfsgfd sjdhfdbfjds 347674657435 -| wertretr ewretrtret 1212132323 000232 -| ereteertetet 232434234 erewesdfsfsfs 0234342343 -| jdhg3875jdfsgfd sjdhfdbfjds 347674657435 -|",
-        "word_count": "755",
-        "top_image_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
-        "tags": ["linux"]
-      },
-      {
-        "item_id": "2751299850",
-        "time_added": "2019-10-08T14:25:28.000Z",
-        "time_updated": "2019-10-08T14:26:09.000Z",
-        "given_url": "https://unix.stackexchange.com/questions/256144/read-a-file-line-by-line-and-if-condition-is-met-continue-reading-till-next-cond/256154#256154",
-        "given_title": "bash - Read a file line by line and if condition is met continue reading ti",
-        "favorite": "0",
-        "excerpt": "There may be other processing needed on the lines to be printed. That's fine; just do it like so: You (the OP) haven't stated what \"other processing\" you have to do on the lines, or I could be more specific.",
-        "word_count": "239",
-        "top_image_url": "https://cdn.sstatic.net/Sites/unix/img/apple-touch-icon@2.png?v=32fb07f7ce26",
-        "tags": ["linux"]
-      },
-      {
-        "item_id": "2195558944",
-        "time_added": "2019-10-05T12:43:20.000Z",
-        "time_updated": "2019-10-05T12:43:47.000Z",
-        "given_url": "https://www.frontendmentor.io/resources",
-        "given_title": "Frontend Mentor | Curated list of front-end resources",
-        "favorite": "0",
-        "excerpt": "Khan Academy offers some amazing introductory courses to HTML, CSS and JavaScript. There is a good mixture of video lessons and coding challenges to keep you interested.  Codecademy offers a number of free lessons for a variety of languages.",
-        "word_count": "2532",
-        "top_image_url": "https://i.imgur.com/SydO8Kp.png",
-        "tags": ["html", "web"]
-      },
-      {
-        "item_id": "1896430274",
-        "time_added": "2019-10-05T12:30:49.000Z",
-        "time_updated": "2019-10-05T12:31:30.000Z",
-        "given_url": "https://medium.com/level-up-web/the-ultimate-list-of-best-free-tools-resources-for-front-end-web-developers-983c65de3300",
-        "given_title": "The Ultimate List of Best Free Tools & Resources for Front-End Web Develope",
-        "favorite": "0",
-        "excerpt": "Front-end development is the development of those elements of a website that the customer sees and interacts with directly. It is a combination of programming skills and aesthetics.",
-        "word_count": "3129",
-        "top_image_url": "https://cdn-images-1.medium.com/max/1200/1*ee9Ji2ToUxeYfj3YUQ1xsA.jpeg",
-        "tags": ["html", "web"]
+        "excerpt": "From the time I started my career as web developer on late 2016 I have been experimenting with UI trying to bring great ideas, passion and quality to what I code. However that it is not an easy job so I try my best to improve my skills being an Medium bookworm and doing some course once in a while.",
+        "word_count": "267",
+        "tags": ["mysite"]
       }
     ],
-    "count": 5
+    "count": 1
   },
   {
     "tag": "linux",
@@ -4679,19 +4786,9 @@
         "favorite": "0",
         "excerpt": "I've got chops in all phases of the design process.  I collaborate with clients and peers to nurture and transform ideas into well thought out design specs. After all, that's where the majority of amazing user experiences start.",
         "word_count": "409"
-      },
-      {
-        "item_id": "2349559395",
-        "time_added": "2019-09-23T15:21:41.000Z",
-        "time_updated": "2019-09-23T15:22:04.000Z",
-        "given_url": "https://danielfr.com/",
-        "given_title": "Front-End Developer | Daniel Fernandez Rabal",
-        "favorite": "0",
-        "excerpt": "From the time I started my career as web developer on late 2016 I have been experimenting with UI trying to bring great ideas, passion and quality to what I code. However that it is not an easy job so I try my best to improve my skills being an Medium bookworm and doing some course once in a while.",
-        "word_count": "267"
       }
     ],
-    "count": 10
+    "count": 9
   },
   {
     "tag": "org",
@@ -5623,6 +5720,51 @@
     "tag": "untaged",
     "items": [
       {
+        "item_id": "2790277863",
+        "time_added": "2019-11-13T09:44:32.000Z",
+        "time_updated": "2019-11-13T09:44:34.000Z",
+        "given_url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a50c261-4f1c-44c0-8175-a40bbbf91936",
+        "given_title": "Digital markedsfører søkes til startup - deltid",
+        "favorite": "0",
+        "excerpt": "",
+        "word_count": "0",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2779933720",
+        "time_added": "2019-11-03T21:31:06.000Z",
+        "time_updated": "2019-11-03T21:31:11.000Z",
+        "given_url": "https://www.primative.net/blog/",
+        "given_title": "Fabien Lasserre | Blog",
+        "favorite": "0",
+        "excerpt": "So long LastPass, hello KeePassXC! Gitlab crashed, who's to blame?",
+        "word_count": "1053",
+        "top_image_url": "https://www.primative.net",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2774259558",
+        "time_added": "2019-10-29T13:21:36.000Z",
+        "time_updated": "2019-10-29T13:21:41.000Z",
+        "given_url": "https://no.linkedin.com/in/jon-arne-viksaas",
+        "given_title": "Jon Arne Viksås - Oslo-området, Norge | Professional profil | LinkedIn",
+        "favorite": "0",
+        "excerpt": "",
+        "word_count": "0",
+        "tags": ["latest tags"]
+      },
+      {
+        "item_id": "2771391807",
+        "time_added": "2019-10-26T18:47:38.000Z",
+        "time_updated": "2019-10-26T18:47:40.000Z",
+        "given_url": "https://gohugobrasil.netlify.com/templates/taxonomy-templates/",
+        "given_title": "Hugo | Taxonomy Templates",
+        "favorite": "0",
+        "excerpt": "Hugo includes support for user-defined groupings of content called taxonomies. Taxonomies are classifications that demonstrate logical relationships between content. See Taxonomies under Content Management if you are unfamiliar with how Hugo leverages this powerful feature.",
+        "word_count": "1370",
+        "top_image_url": "https://gohugo.io/images/gohugoio-card.png"
+      },
+      {
         "item_id": "2738534375",
         "time_added": "2019-09-26T16:41:10.000Z",
         "time_updated": "2019-09-26T16:41:11.000Z",
@@ -6132,7 +6274,7 @@
         "word_count": "0"
       }
     ],
-    "count": 49
+    "count": 53
   },
   {
     "tag": "video",
@@ -6451,8 +6593,7 @@
         "given_title": "James Mackenzie - Getting Started With the Pocket Developer API",
         "favorite": "0",
         "excerpt": "I want to automatically extract the video from my Pocketed content and sync it to my phone. To do this, I’ll need to extend Pocket via the Developer API. Here’s how to get started. Head over to the Pocket Developer Portal and create a new App.",
-        "word_count": "850",
-        "tags": ["latest tags"]
+        "word_count": "850"
       },
       {
         "item_id": "1080672961",
@@ -6463,8 +6604,7 @@
         "favorite": "0",
         "excerpt": "PROTIP: If I were you, I'd add the ./config.json file to your .gitignore file, but that's just me.  To save an item to a user's Pocket list, you'll make a single request to the /v3/add endpoint.",
         "word_count": "450",
-        "top_image_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
-        "tags": ["latest tags"]
+        "top_image_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
       },
       {
         "item_id": "2464435675",
@@ -6475,8 +6615,7 @@
         "favorite": "0",
         "excerpt": "Creating a list of article I have read and been inspired by.",
         "word_count": "24",
-        "top_image_url": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
-        "tags": ["latest tags"]
+        "top_image_url": "https://github.githubassets.com/images/modules/open_graph/github-logo.png"
       },
       {
         "item_id": "2722015943",
@@ -6486,9 +6625,8 @@
         "given_title": "An introduction to HTTP: everything you need to know",
         "favorite": "0",
         "excerpt": "In this article, I will walk you through how the world wide web works at a fundamental level. The core technology is HTTP - Hypertext Transfer Protocol. It's the communication protocol you use when you browse the web.",
-        "word_count": "1594",
-        "top_image_url": "https://www.freecodecamp.org/news/content/images/2019/08/slik.jpeg",
-        "tags": ["latest tags"]
+        "word_count": "1604",
+        "top_image_url": "https://www.freecodecamp.org/news/content/images/2019/08/slik.jpeg"
       },
       {
         "item_id": "2333934156",

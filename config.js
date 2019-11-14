@@ -13,6 +13,7 @@ module.exports = {
     "nav",
     "hide",
     "job",
+    "jobb",
     "favorits job",
     "helse",
     "job-har-sokt",
