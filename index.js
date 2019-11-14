@@ -4,7 +4,7 @@ function main(data) {
   const fs = require("fs");
   // https://medium.com/@pativancarrasco/why-your-es6-syntax-doesnt-work-in-node-js-and-how-to-fix-it-161f0708f1ad
   // import { TAGS_TO_IGNORE, UNTAGED, data } from './config.js';
-  const config = require("./config.js");
+  const config = require("./config.json");
   //   const data = require(config.input);
   // Get an easier list to work with (array)
   const objectList = Object.values(data.list);

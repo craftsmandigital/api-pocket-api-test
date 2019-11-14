@@ -17,7 +17,7 @@ const GetPocket = require("node-getpocket");
 //     consumer_key: 'YOUR CONSUMER KEY',
 //     access_token: 'YOUR ACCESS TOKEN'
 // };
-const config = require("./credentials.js");
+const config = require("./credentials.json");
 // module.exports.importJSONfile = function () {
 
 const params = {
