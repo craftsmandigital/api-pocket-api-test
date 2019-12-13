@@ -1,5 +1,5 @@
 const fs = require("fs");
-
+const datetime = new Date();
 const json = require("./pocket-data.json");
 
 
@@ -35,7 +35,8 @@ const json = require("./pocket-data.json");
 Promise.all([md]).then(function(contents) {
   const outputList = json.map(x => ' "' + x.tag + '"').toString();
   const token = "__TAGS__";
-  const res = contents[0].replace(token, outputList);
+  const token2 = "__DATE__";
+  const res = contents[0].replace(token, outputList).replace(token2, datetime.toISOString());
   console.log(res);
 //   console.log(outputList);
 });
